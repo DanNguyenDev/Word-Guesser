@@ -1,7 +1,6 @@
 /*
  gserver.cpp
- 04/18/2023
- Daniel Nguyen
+
  This program will act as a server for the client code and use a child pipe to read/write
  data. If any arguments are missing, or if the pipes fail to open, etc than throw a domain
  error. Program will read in the word/data and "store" the data in an array.
