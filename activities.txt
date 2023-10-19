@@ -1,0 +1,151 @@
+
+
+
+{giant:~/assign05} ./gserver words.txt &
+[4] 31037
+{giant:~/assign05} ./gclient
+
+Unsuccessful Guess:
+
+
+Game Start
+
+You have 12 letter guesses to win
+
+
+Client : 1
+No of tries: 0
+(Guess) Enter a letter in the word : --------------
+
+a
+
+Client : 1
+No of tries: 1
+(Guess) Enter a letter in the word : --------------
+
+o
+
+Client : 1
+No of tries: 2
+(Guess) Enter a letter in the word : -o---o-----o--
+
+s
+
+Client : 1
+No of tries: 3
+(Guess) Enter a letter in the word : -o---o--s--o-s
+
+t
+
+Client : 1
+No of tries: 4
+(Guess) Enter a letter in the word : -o---o--s--o-s
+
+p
+
+Client : 1
+No of tries: 5
+(Guess) Enter a letter in the word : -o-p-o--s--o-s
+
+t
+
+Client : 1
+No of tries: 6
+(Guess) Enter a letter in the word : -o-p-o--s--o-s
+
+i
+
+Client : 1
+No of tries: 7
+(Guess) Enter a letter in the word : -o-p-o-is--o-s
+
+r
+
+Client : 1
+No of tries: 8
+(Guess) Enter a letter in the word : -o-pro-is--o-s
+
+m
+
+Client : 1
+No of tries: 9
+(Guess) Enter a letter in the word : -o-promis--o-s
+
+e
+
+Client : 1
+No of tries: 10
+(Guess) Enter a letter in the word : -o-promis--o-s
+
+k
+
+Client : 1
+No of tries: 11
+(Guess) Enter a letter in the word : -o-promis--o-s
+
+j
+
+Client : 1
+No of tries: 12
+(Guess) Enter a letter in the word : -o-promis--o-s
+
+h
+
+
+Out of tries : 12 allowed
+The word is: nonpromiscuous
+
+[4]-  Done                    ./gserver words.txt
+{giant:~/assign05}
+
+
+
+
+Successful Guess:
+
+
+Game Start
+
+You have 12 letter guesses to win
+
+
+Client : 1
+No of tries: 0
+(Guess) Enter a letter in the word : -------
+
+a
+
+Client : 1
+No of tries: 1
+(Guess) Enter a letter in the word : -a--a--
+
+m
+
+Client : 1
+No of tries: 2
+(Guess) Enter a letter in the word : -a--a--
+
+t
+
+Client : 1
+No of tries: 3
+(Guess) Enter a letter in the word : -atta--
+
+r
+
+Client : 1
+No of tries: 4
+(Guess) Enter a letter in the word : ratta--
+
+i
+
+Client : 1
+No of tries: 5
+(Guess) Enter a letter in the word : rattai-
+
+l
+
+rattail
+
+
+You Win!
