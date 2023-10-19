@@ -1,7 +1,7 @@
 /*
  gclient.cpp
- 04/18/2023
- Daniel Nguyen
+
+
  The program will open up read/write pipes and will display a open failure if it is less
  than OK. Create a do while loop that will start the game and continue the game if the word
  is not guessed
